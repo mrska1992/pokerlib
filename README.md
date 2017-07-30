@@ -20,5 +20,10 @@ print(deck.info)
 ```python
 print(deck['result_points']
 ```
+	Чуть не забыл, еще вот так можно
+```python
+deck = Deck('Ks,Js,Qs,2c,3d,Ts,As,Ad,Ac'), engine='omaha'))
+print(deck.info
+```
 
 # Развлекайся, кароче
